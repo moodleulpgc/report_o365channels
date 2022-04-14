@@ -1,0 +1,12 @@
+.path-report-o365channels .singleselect, 
+.path-report-o365channels .manageteam {
+    margin-bottom: 0.5rem;
+}
+
+.path-report-o365channels .manageteam .singlebutton {
+    margin-left: 1.0rem;
+}
+
+.path-report-o365channels .usergrouplinks {
+    font-size: small;
+}
